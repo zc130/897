@@ -1,0 +1,23 @@
+html {
+    /* px ��ʾ�����أ�pixels����: �����ֺ�Ϊ 10 ���� */
+    font-size: 10px;
+    /* Google fonts ����� CSS */
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    /* line-height ������Ը���ͬ�Ĳ�������������֣����ǵ�ǰ�����С�������� */
+    line-height: 2;
+    letter-spacing: 1px;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: hsl(194, 100%, 31%);
+    text-shadow: 3px 3px 1px black;
+}
